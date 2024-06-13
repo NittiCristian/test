@@ -1,0 +1,6 @@
+Stanze: atrio, aulaN11, aulaN10, laboratorio, biblioteca, aulaN18 magica 3, bagno bloccata chiave nord, ufficio buia martello
+Inizio: atrio
+Vincente: biblioteca
+Attrezzi: lanterna 3 aulaN10, osso 1 atrio, sasso 2 aulaN18, torcia 4 bagno, chiave 1 ufficio, martello 3 atrio 
+Uscite: atrio nord biblioteca, atrio est aulaN11, atrio sud aulaN10, atrio ovest laboratorio, aulaN11 est laboratorio, aulaN11 ovest atrio, aulaN11 sud aulaN18, aulaN11 nord bagno, aulaN10 nord atrio, aulaN10 est aulaN11, aulaN10 ovest laboratorio, aulaN10 sud ufficio, laboratorio est atrio, laboratorio ovest aulaN11, biblioteca sud atrio, aulaN18 nord aulaN11, bagno sud aulaN11, ufficio nord aulaN10
+Personaggi: Morgana aulaN10 Strega strega cattiva, Merlino aulaN11 Mago bacchetta 1 ho un attrezzo per te, bau biblioteca Cane bauu

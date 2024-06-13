@@ -1,0 +1,6 @@
+Stanze: biblioteca, N10, N11, N12 bloccata pinza ovest, N13 buia bacchetta, N14 magica 3
+Inizio: biblioteca
+Vincente: N11
+Attrezzi: martello 10 biblioteca, pinza 2 N10
+Uscite: biblioteca nord N10, biblioteca sud N11, N10 sud biblioteca, biblioteca est N12, N12 ovest biblioteca, N11 est N13, N13 ovest N11, N11 ovest N14, N14 est N11
+Personaggi: Merlino N10 Mago bacchetta 1 ho un attrezzo per te, bau biblioteca Cane bauu

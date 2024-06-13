@@ -1,0 +1,6 @@
+Stanze: nomeStanzaIniziale
+Inizio: nomeStanzaIniziale
+Vincente: nomeStanzaIniziale
+Attrezzi: 
+Uscite: 
+Personaggi: 
